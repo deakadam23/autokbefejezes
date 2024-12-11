@@ -1,0 +1,27 @@
+aside#bal{
+
+display: block;
+
+}
+
+th{
+border-bottom: 1px black solid;
+text-align: left;
+
+}
+
+table,tr,th,td{
+
+border-collapse: collapse;
+
+}
+
+tr:nth-child(even){
+background-color:lightgrey
+
+}
+
+/* tr:nth-child(odd){
+background-color: rgb(218,80,80);
+
+}*/
